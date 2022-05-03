@@ -5,3 +5,4 @@
 - 제품 메타데이터: 설명, 카테고리 정보, 가격, 브랜드, 이미지 기능
 - 링크 : 그래프 보고/구매한 것 포함
 - RAWDATA : http://jmcauley.ucsd.edu/data/amazon/
+##
